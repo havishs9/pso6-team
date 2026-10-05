@@ -1,5 +1,5 @@
-Team members: A-USERNAME and B-USERNAME
-Favorite programming language: TBD
-Team motto: It works on my machine!
+TTeam members: nidhiriju and havishs9
+Favorite programming language: Python
+Team motto: We love to code!
 
 
